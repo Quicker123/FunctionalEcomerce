@@ -507,14 +507,13 @@
                                     <div class="col-md-3">
                                         <span class="u-header__sub-menu-title">Home</span>
                                         <ul class="u-header__sub-menu-nav-group">
-                                            <li><a href="/home" class="nav-link u-header__sub-menu-nav-link">Home</a></li>
-                                            <li><a href="about.html" class="nav-link u-header__sub-menu-nav-link">About</a></li>
-                                            <li><a href="contact-v2.html" class="nav-link u-header__sub-menu-nav-link">Contact</a></li>
-                                            <li><a href="/blog" class="nav-link u-header__sub-menu-nav-link">Blog</a></li>
-                                            <li><a href="faq.html" class="nav-link u-header__sub-menu-nav-link">FAQ</a></li>
-                                            <li><a href="store-directory.html" class="nav-link u-header__sub-menu-nav-link">Store Directory</a></li>
-                                            <li><a href="terms-and-conditions.html" class="nav-link u-header__sub-menu-nav-link">Terms and Conditions</a></li>
-                                            <li><a href="404.html" class="nav-link u-header__sub-menu-nav-link">404</a></li>
+                                            <li><a href="{{ route('home') }}" class="nav-link u-header__sub-menu-nav-link">Home</a></li>
+                                            <li><a href="{{ route('about') }}" class="nav-link u-header__sub-menu-nav-link">About</a></li>
+                                            <li><a href="{{ route('contact') }}" class="nav-link u-header__sub-menu-nav-link">Contact</a></li>
+                                            <li><a href="{{ route('blog') }}" class="nav-link u-header__sub-menu-nav-link">Blog</a></li>
+                                            <li><a href="{{ route('faq') }}" class="nav-link u-header__sub-menu-nav-link">FAQ</a></li>
+                                            <li><a href="{{ route('store') }}" class="nav-link u-header__sub-menu-nav-link">Store Directory</a></li>
+                                            <li><a href="{{ route('terms') }}" class="nav-link u-header__sub-menu-nav-link">Terms and Conditions</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-md-3">

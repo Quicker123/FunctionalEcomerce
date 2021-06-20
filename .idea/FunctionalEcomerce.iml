@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ecomerce/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/ecomerce/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/ecomerce/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/ecomerce/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/laravel/sail" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/fruitcake/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/ecomerce/vendor/egulias/email-validator" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

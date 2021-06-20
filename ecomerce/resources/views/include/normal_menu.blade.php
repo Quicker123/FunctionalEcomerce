@@ -419,20 +419,7 @@
                                 data-event="hover"
                                 data-animation-in="slideInUp"
                                 data-animation-out="fadeOut">
-                                <a class="nav-link u-header__sub-menu-nav-link" href="/home" style="text-decoration: none; font-weight:bold;">Home</a>
-
-                                <!-- Home - Submenu -->
-                                <ul id="HomeSubMenu" class="hs-sub-menu u-header__sub-menu animated fadeOut" aria-labelledby="HomeMegaMenu" style="min-width: 230px; display: none;">
-                                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../home/index.html">Home v1</a></li>
-                                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../home/home-v2.html">Home v2</a></li>
-                                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../home/home-v3.html">Home v3</a></li>
-                                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../home/home-v3-full-color-bg.html">Home v3.1</a></li>
-                                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../home/home-v4.html">Home v4</a></li>
-                                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../home/home-v5.html">Home v5</a></li>
-                                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../home/home-v6.html">Home v6</a></li>
-                                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../home/home-v7.html">Home v7</a></li>
-                                </ul>
-                                <!-- End Home - Submenu -->
+                                <a class="nav-link u-header__sub-menu-nav-link" href="{{ route('home') }}" style="text-decoration: none; font-weight:bold;">Home</a>
                             </li>
                             <!-- End Home -->
 
